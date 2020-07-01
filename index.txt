@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Practice Work </title>
+</head> 
+<body> 
+
+
+
+<h1>Trying to learn html</h1>
+<p>I m running my web page</p>
+
+
+</body>
+</html>
